@@ -1,0 +1,3 @@
+{ "extends": [
+  "@rocketseat/eslit-config/react"
+]}
