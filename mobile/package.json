@@ -13,7 +13,7 @@
     "@expo-google-fonts/roboto": "^0.2.3",
     "@types/react": "~18.0.27",
     "axios": "^1.6.2",
-    "dayjs": "^1.11.7",
+    "dayjs": "^1.11.10",
     "expo": "~48.0.15",
     "expo-auth-session": "~4.0.3",
     "expo-constants": "~14.2.1",
